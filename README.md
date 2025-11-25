@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczI1dmJ1amR2anYzMWNqOXhlbmUxMmxvbzNldjYyN3Ruc2ZieWxhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzVwOO8xZsfks/giphy.gif" alt="Excited SpongeBob" width="300"/>
+  <img src="https://media.tenor.com/dnjhZUJnbeEAAAAi/rayman-raymanadventures.gif" alt="Excited SpongeBob" width="300"/>
   <br>
   <em>belo!</em>
 </p>
