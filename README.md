@@ -5,7 +5,8 @@
 </p>
 
 <h3 align="center">
-  Hello! I'm Kole, Connect with me to get to know me better! 💛
+  Hello! I'm Kole! 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1MmpxcmYxZW1lYTV6dmlkZHV2aDI2djVqYXRwMm5zMW1lN2d1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriObMOj0H2zfdTFe/giphy.gif" alt="Cute GIF" width="50" style="vertical-align: middle;"/>
 </h3>
 
 <p align="center">Full Stack Software Developer & Aspiring Robotics Engineer 🤖</p>
