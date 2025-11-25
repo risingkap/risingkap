@@ -11,7 +11,7 @@
 
 
 <p align="center">
-`Full Stack Software Developer & Aspiring Robotics Engineer 🤖 uh, there's nothing much to say, vibe code with me instead!`
+<code>Full Stack Software Developer & Aspiring Robotics Engineer 🤖 uh, there's nothing much to say, vibe code with me instead!</code>
 </p>
 
 ---
