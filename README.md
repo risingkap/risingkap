@@ -75,3 +75,7 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.tenor.com/uuqTsCYHpEkAAAAi/snoopy-esnupi.gif" alt="Cute Snoopy GIF" width="50" style="vertical-align: middle;"/>
+</p>
+
