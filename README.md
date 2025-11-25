@@ -6,8 +6,9 @@
 
 <h3 align="center">
   Hello! I'm Kole! 
-  <img src="https://media.tenor.com/7fjF4qk5K9MAAAAM/snoopy-spin.gif" alt="Cute Snoopy GIF" width="50" style="vertical-align: middle;"/>
+  <img src="https://tenor.com/view/snoopy-esnupi-peanuts-charlie-brown-snoopy-spin-gif-13468740020366451785" alt="Cute Snoopy GIF" width="50" style="vertical-align: middle;"/>
 </h3>
+
 
 <p align="center">Full Stack Software Developer & Aspiring Robotics Engineer 🤖</p>
 
