@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  <code>Hello! I'm Kole!</code>
+  Hello! I'm Kole!
 </h3>
 
 
