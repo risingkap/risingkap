@@ -5,12 +5,11 @@
 </p>
 
 <h3 align="center">
-  Hello! I'm Kole!
+  Hello! I'm <span style="color: blue;">Kole</span>!
 </h3>
 
-
 <p align="center">
-  <i>Full Stack Software Developer & Aspiring Robotics Engineer 🤖 uh, there's nothing much to say, vibe code with me instead!</i>
+  <code>Full Stack Software Developer & Aspiring Robotics Engineer 🤖 uh, there's nothing much to say, vibe code with me instead!</code>
 </p>
 
 ---
