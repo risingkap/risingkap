@@ -5,8 +5,7 @@
 </p>
 
 <h3 align="center">
-  Hello! I'm Kole! 
-  <img src="https://media.tenor.com/uuqTsCYHpEkAAAAi/snoopy-esnupi.gif" alt="Cute Snoopy GIF" width="50" style="vertical-align: middle;"/>
+  <code>Hello! I'm Kole!</code>
 </h3>
 
 
