@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <em>Full Stack Software Developer & Aspiring Robotics Engineer 🤖 uh, there's nothing much to say, vibe code with me instead!</em>
+  <i>Full Stack Software Developer & Aspiring Robotics Engineer 🤖 uh, there's nothing much to say, vibe code with me instead!</i>
 </p>
 
 ---
