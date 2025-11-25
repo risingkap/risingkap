@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  Hello! I'm&nbsp;![Kole](https://img.shields.io/badge/Kole-0078D7?style=for-the-badge&logo=github&logoColor=white)
+  Hello, I'm Kole!
 </h3>
 
 <p align="center">
