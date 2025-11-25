@@ -10,7 +10,9 @@
 </h3>
 
 
-<p align="center">Full Stack Software Developer & Aspiring Robotics Engineer 🤖</p>
+<p align="center">
+`Full Stack Software Developer & Aspiring Robotics Engineer 🤖 uh, there's nothing much to say, vibe code with me instead!`
+</p>
 
 ---
 
