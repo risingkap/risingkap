@@ -1,8 +1,8 @@
-<h1 align="center">Hi there! 👋 I'm Kole!</h1>
+<h1 align="center">Penny for your thoughts?</h1>
 <h3 align="center">Full Stack Software Developer & Aspiring Robotics Engineer 🤖</h3>
 
 <p align="center">
-  Hello! I'm Kole, a curious mind who loves building cool stuff and exploring robotics. Connect with me to get to know me better! 💛
+  Hello! I'm Kole, Connect with me to get to know me better! 💛
 </p>
 
 <p align="center">
