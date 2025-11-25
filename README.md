@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://media.tenor.com/dnjhZUJnbeEAAAAi/rayman-raymanadventures.gif" alt="Excited SpongeBob" width="300"/>
+  <img src="https://media1.tenor.com/m/dJteUOIT3poAAAAC/rabbids.gif" alt="bwa" width="300"/>
   <br>
-  <em>belo!</em>
+  <em>bwa!</em>
 </p>
 
 <h3 align="center">
