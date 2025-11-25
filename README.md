@@ -1,15 +1,15 @@
-<h1 align="center">Funeral Guests only, Hi! I'm Kole!</h1>
+<h1 align="center">Hi! I'm Kole!</h1>
+<h1 align="center">Hi there! 👋 I'm Kole!</h1>
 <h3 align="center">Full Stack Software Developer & Aspiring Robotics Engineer 🤖</h3>
+
+<p align="center">
+  Hello! I'm Kole, a curious mind who loves building cool stuff and exploring robotics. Connect with me to get to know me better! 💛
+</p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczI1dmJ1amR2anYzMWNqOXhlbmUxMmxvbzNldjYyN3Ruc2ZieWxhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzVwOO8xZsfks/giphy.gif" alt="Excited SpongeBob" width="300"/>
   <br>
   <em>cheesebob!</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alcantaran">
-  </a>
 </p>
 
 ---
