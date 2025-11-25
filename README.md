@@ -1,4 +1,3 @@
-<h1 align="center">Hi! I'm Kole!</h1>
 <h1 align="center">Hi there! 👋 I'm Kole!</h1>
 <h3 align="center">Full Stack Software Developer & Aspiring Robotics Engineer 🤖</h3>
 
