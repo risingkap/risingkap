@@ -1,0 +1,16 @@
+<svg width="1000" height="10" viewBox="0 0 1000 10" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="redGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent" />
+      <stop offset="50%" stop-color="#F70000" />
+      <stop offset="100%" stop-color="transparent" />
+    </linearGradient>
+    <filter id="blurRed">
+      <feGaussianBlur stdDeviation="2" />
+    </filter>
+  </defs>
+  <rect x="0" y="3" width="1000" height="4" fill="url(#redGlow)" filter="url(#blurRed)" opacity="0.8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite" />
+  </rect>
+  <rect x="0" y="4" width="1000" height="2" fill="#F70000" />
+</svg>

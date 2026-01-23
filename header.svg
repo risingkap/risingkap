@@ -1,9 +1,15 @@
 <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
   <style>
     @keyframes colorCycle {
-      0% { fill: #0077B5; } /* Blue */
-      50% { fill: #F70000; } /* Red */
-      100% { fill: #0077B5; }
+      0% { fill: #0077B5; filter: drop-shadow(0 0 5px #0077B5); }
+      50% { fill: #F70000; filter: drop-shadow(0 0 10px #F70000); }
+      100% { fill: #0077B5; filter: drop-shadow(0 0 5px #0077B5); }
     }
     .text {
       font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
