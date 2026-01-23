@@ -1,0 +1,16 @@
+<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes colorCycle {
+      0% { fill: #0077B5; } /* Blue */
+      50% { fill: #F70000; } /* Red */
+      100% { fill: #0077B5; }
+    }
+    .text {
+      font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 42px;
+      animation: colorCycle 4s infinite;
+    }
+  </style>
+  <text x="50%" y="55" text-anchor="middle" class="text">Meet King Kole!</text>
+</svg>
