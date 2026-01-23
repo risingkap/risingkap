@@ -19,7 +19,7 @@
           <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
         </a>
         &nbsp;
-        <a href="https://github.com/alcantaran" target="_blank">
+        <a href="https://github.com/risingkap" target="_blank">
           <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
         </a>
       </div>
@@ -50,6 +50,13 @@
 </td>
 </tr>
 </table>
+</div>
+
+<br>
+
+<div align="center">
+<h3><code>📊 Galactic Dominance (Top Languages)</code></h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risingkap&layout=compact&langs_count=8&theme=radical&title_color=4CFF00&text_color=FFFFFF&icon_color=4CFF00&hide_border=true&bg_color=0D111700" alt="Top Languages" />
 </div>
 
 <br>
