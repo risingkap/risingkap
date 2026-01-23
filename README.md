@@ -56,7 +56,7 @@
 
 <div align="center">
   <h3><code>🎮 Combat Simulation</code></h3>
-  <img src="https://raw.githubusercontent.com/ZabJT/ZabJT/main/game.gif" width="100%" alt="Dino Game" style="border-radius: 10px; max-width: 800px;" />
+  <img src="https://raw.githubusercontent.com/risingkap/risingkap/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" style="border-radius: 10px; max-width: 800px;" />
 </div>
 
 <br>
