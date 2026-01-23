@@ -52,6 +52,15 @@
 </table>
 </div>
 
+<br>
+
+<div align="center">
+  <h3><code>🎮 Combat Simulation</code></h3>
+  <img src="https://raw.githubusercontent.com/ZabJT/ZabJT/main/game.gif" width="100%" alt="Dino Game" style="border-radius: 10px; max-width: 800px;" />
+</div>
+
+<br>
+
 <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=---|;---|[:::::::];---|[::::::::::::::];---|[::::::::::::::::]::>;Execute+Order+66+(Success)." alt="Typing SVG" />
