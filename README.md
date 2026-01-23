@@ -1,5 +1,3 @@
-<img src="line-red.svg" width="100%" />
-
 <div align="center">
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
@@ -30,8 +28,6 @@
 </table>
 </div>
 
-<img src="line-blue.svg" width="100%" />
-
 <div align="center">
 <h3><code>🛠️ Specialized Arsenal</code></h3>
 <table align="center" style="border: none; width: 100%; border-collapse: collapse;">
@@ -55,8 +51,6 @@
 </tr>
 </table>
 </div>
-
-<img src="line-red.svg" width="100%" />
 
 <p align="center">
 <a href="https://git.io/typing-svg">
