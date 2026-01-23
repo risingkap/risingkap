@@ -16,11 +16,11 @@
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW83c25zMTl4OXU2cnVmandpNjBqOTFzbXM0cWdpcWM4ZDhjNXZveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uXaoKAsqPdB9RIrOZV/giphy.gif" alt="Stormtrooper" width="80" style="vertical-align: middle;"/>
         &nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/alcantaranc/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
         </a>
         &nbsp;
         <a href="https://github.com/alcantaran" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
         </a>
       </div>
     </td>
