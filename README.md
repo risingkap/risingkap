@@ -52,6 +52,14 @@
 </table>
 </div>
 
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risingkap&layout=compact&langs_count=8&theme=radical&title_color=4CFF00&text_color=FFFFFF&icon_color=4CFF00&hide_border=true&bg_color=0D111700" alt="Top Languages" />
+</div>
+
+<br>
+
 <div align="center">
   <img src="game.gif" width="100%" alt="Space Shooter Contribution Game" style="border-radius: 10px; max-width: 800px;" />
 </div>
