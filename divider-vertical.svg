@@ -2,9 +2,7 @@
   <defs>
     <linearGradient id="vertGlow" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#004466" />
-      <stop offset="50%" stop-color="#004466" />
-      <stop offset="51%" stop-color="#660000" />
-      <stop offset="100%" stop-color="#660000" />
+      <stop offset="100%" stop-color="#0077B5" />
     </linearGradient>
     <filter id="blurNeon">
       <feGaussianBlur stdDeviation="3" />

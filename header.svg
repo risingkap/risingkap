@@ -8,7 +8,7 @@
   <style>
     @keyframes colorCycle {
       0% { fill: #0077B5; filter: drop-shadow(0 0 5px #0077B5); }
-      50% { fill: #F70000; filter: drop-shadow(0 0 10px #F70000); }
+      50% { fill: #00AAFF; filter: drop-shadow(0 0 10px #00AAFF); }
       100% { fill: #0077B5; filter: drop-shadow(0 0 5px #0077B5); }
     }
     .text {
