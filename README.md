@@ -11,7 +11,7 @@
       <div align="center">
         <img src="header.svg" alt="Meet King Kole!" width="400" />
         <p><strong>Software & a Full Stack Developer</strong></p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F70000&center=true&vCenter=true&width=200&lines=npm+run+order66" alt="Order 66" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0077B5&center=true&vCenter=true&width=200&lines=useTheForce();" alt="Use The Force" />
         <br><br>
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW83c25zMTl4OXU2cnVmandpNjBqOTFzbXM0cWdpcWM4ZDhjNXZveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uXaoKAsqPdB9RIrOZV/giphy.gif" alt="Stormtrooper" width="80" style="vertical-align: middle;"/>
         &nbsp;&nbsp;
@@ -62,6 +62,6 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=---|;---|[:::::::];---|[::::::::::::::];---|[::::::::::::::::]::>;Execute+Order+66+(Success)." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4CFF00&center=true&vCenter=true&width=500&lines=---|;---|[:::::::];---|[::::::::::::::];---|[::::::::::::::::]::>;May+the+force+be+with+you." alt="Typing SVG" />
 </a>
 </p>
