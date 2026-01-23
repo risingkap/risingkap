@@ -1,0 +1,17 @@
+<svg width="20" height="300" viewBox="0 0 20 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="vertGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#004466" />
+      <stop offset="50%" stop-color="#004466" />
+      <stop offset="51%" stop-color="#660000" />
+      <stop offset="100%" stop-color="#660000" />
+    </linearGradient>
+    <filter id="blurNeon">
+      <feGaussianBlur stdDeviation="3" />
+    </filter>
+  </defs>
+  <rect x="8" y="0" width="4" height="300" fill="url(#vertGlow)" filter="url(#blurNeon)" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite" />
+  </rect>
+  <rect x="9" y="0" width="2" height="300" fill="url(#vertGlow)" opacity="0.9" />
+</svg>

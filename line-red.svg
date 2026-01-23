@@ -2,15 +2,15 @@
   <defs>
     <linearGradient id="redGlow" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="transparent" />
-      <stop offset="50%" stop-color="#F70000" />
+      <stop offset="50%" stop-color="#660000" />
       <stop offset="100%" stop-color="transparent" />
     </linearGradient>
     <filter id="blurRed">
       <feGaussianBlur stdDeviation="2" />
     </filter>
   </defs>
-  <rect x="0" y="3" width="1000" height="4" fill="url(#redGlow)" filter="url(#blurRed)" opacity="0.8">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite" />
+  <rect x="0" y="3" width="1000" height="4" fill="url(#redGlow)" filter="url(#blurRed)" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite" />
   </rect>
-  <rect x="0" y="4" width="1000" height="2" fill="#F70000" />
+  <rect x="0" y="4" width="1000" height="2" fill="#660000" opacity="0.8" />
 </svg>
