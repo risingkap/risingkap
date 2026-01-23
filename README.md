@@ -55,7 +55,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/risingkap/risingkap/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" style="border-radius: 10px; max-width: 800px;" />
+  <img src="game.gif" width="100%" alt="Space Shooter Contribution Game" style="border-radius: 10px; max-width: 800px;" />
 </div>
 
 <br>
