@@ -52,6 +52,16 @@
 </table>
 </div>
 
+<div align="center">
+  <h3><code>📊 Imperial Intelligence</code></h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alcantaran&show_icons=true&theme=transparent&title_color=F70000&icon_color=0077B5&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcantaran&layout=compact&theme=transparent&title_color=F70000&icon_color=0077B5&text_color=FFFFFF&hide_border=true" alt="Top Langs" />
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alcantaran&theme=transparent&hide_border=true&stroke=0077B5&ring=F70000&fire=F70000&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=B0B0B0" alt="GitHub Streak" />
+  </p>
+</div>
+
 <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=---|;---|[:::::::];---|[::::::::::::::];---|[::::::::::::::::]::>;Execute+Order+66+(Success)." alt="Typing SVG" />
