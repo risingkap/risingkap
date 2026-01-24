@@ -10,7 +10,7 @@
     </td>
     <td align="center" style="border: 0; padding: 0; vertical-align: middle;">
       <img src="header.svg" alt="Meet King Kole!" width="400" />
-      <p><strong><code>Software & a Full Stack Developer</code></strong></p>
+      <p style="font-family: 'Courier New', Courier, monospace;"><strong>Software & a Full Stack Developer</strong></p>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4CFF00&center=true&vCenter=true&width=200&lines=useTheForce();" alt="Use The Force" />
       <br><br>
       <div align="center">
