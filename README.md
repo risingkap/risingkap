@@ -1,13 +1,13 @@
 ﻿<div align="center">
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 0; vertical-align: middle;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: 0px solid transparent; border-collapse: collapse; border-spacing: 0;">
+  <tr style="border: 0px solid transparent;">
+    <td align="center" style="border: 0px solid transparent; padding: 0; vertical-align: middle;">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamM1dm9nbnQxNHY1anl0cHVudThyN21mODB3aDI3cTQwMjJrMnluYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/loJfRUowazVZfaemAp/giphy.gif" alt="Darth Vader" width="300" style="border-radius: 15px; border: 2px solid #004466;"/>
     </td>
-    <td align="center" style="border: none; padding: 0 20px; vertical-align: middle;">
+    <td align="center" style="border: 0px solid transparent; padding: 0 20px; vertical-align: middle;">
       <img src="divider-vertical.svg" height="250" />
     </td>
-    <td align="center" style="border: none; padding: 0; vertical-align: middle;">
+    <td align="center" style="border: 0px solid transparent; padding: 0; vertical-align: middle;">
       <div align="center">
         <img src="header.svg" alt="Meet King Kole!" width="400" />
         <p><strong>Software & a Full Stack Developer</strong></p>
@@ -29,21 +29,21 @@
 </div>
 
 <div align="center">
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%; border-collapse: collapse;">
-<tr style="border: none;">
-<td align="center" style="border: none; width: 25%;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: 0px solid transparent; width: 100%; border-collapse: collapse; border-spacing: 0;">
+<tr style="border: 0px solid transparent;">
+<td align="center" style="border: 0px solid transparent; width: 25%;">
 <code>Frontend</code><br><br>
 <img src="https://skillicons.dev/icons?i=react,tailwind,js,flutter&theme=dark" />
 </td>
-<td align="center" style="border: none; width: 25%;">
+<td align="center" style="border: 0px solid transparent; width: 25%;">
 <code>Backend</code><br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,python,express,php&theme=dark" />
 </td>
-<td align="center" style="border: none; width: 25%;">
+<td align="center" style="border: 0px solid transparent; width: 25%;">
 <code>Data</code><br><br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </td>
-<td align="center" style="border: none; width: 25%;">
+<td align="center" style="border: 0px solid transparent; width: 25%;">
 <code>Ops</code><br><br>
 <img src="https://skillicons.dev/icons?i=git,azure,figma&theme=dark" />
 </td>
