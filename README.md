@@ -29,7 +29,6 @@
 </div>
 
 <div align="center">
-<h3><code>🛠️ Specialized Arsenal</code></h3>
 <table align="center" style="border: none; width: 100%; border-collapse: collapse;">
 <tr style="border: none;">
 <td align="center" style="border: none; width: 25%;">
