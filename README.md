@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-<table align="center" style="border: none; width: 100%; border-collapse: collapse;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%; border-collapse: collapse;">
 <tr style="border: none;">
 <td align="center" style="border: none; width: 25%;">
 <code>Frontend</code><br><br>
