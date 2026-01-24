@@ -37,19 +37,19 @@
 <table align="center" border="1" cellpadding="0" cellspacing="0" style="border: 1px solid transparent; border-collapse: collapse; width: 100%;">
   <tr style="border: 1px solid transparent;">
     <td align="center" style="border: 1px solid transparent; width: 25%;">
-      <code>Frontend</code><br><br>
+      <span style="font-family: 'Courier New', Courier, monospace;"><strong>Frontend</strong></span><br><br>
       <img src="https://skillicons.dev/icons?i=react,tailwind,js,flutter&theme=dark" />
     </td>
     <td align="center" style="border: 1px solid transparent; width: 25%;">
-      <code>Backend</code><br><br>
+      <span style="font-family: 'Courier New', Courier, monospace;"><strong>Backend</strong></span><br><br>
       <img src="https://skillicons.dev/icons?i=nodejs,python,express,php&theme=dark" />
     </td>
     <td align="center" style="border: 1px solid transparent; width: 25%;">
-      <code>Data</code><br><br>
+      <span style="font-family: 'Courier New', Courier, monospace;"><strong>Data</strong></span><br><br>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
     </td>
     <td align="center" style="border: 1px solid transparent; width: 25%;">
-      <code>Ops</code><br><br>
+      <span style="font-family: 'Courier New', Courier, monospace;"><strong>Ops</strong></span><br><br>
       <img src="https://skillicons.dev/icons?i=git,azure,figma&theme=dark" />
     </td>
   </tr>
