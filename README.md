@@ -2,13 +2,13 @@
 
 <table border="1" cellpadding="0" cellspacing="0" style="border: 1px solid transparent; border-collapse: collapse;">
   <tr style="border: 1px solid transparent;">
-    <td align="center" style="border: 1px solid transparent; padding: 0; vertical-align: middle;">
+    <td align="center" style="border: 0; padding: 0; vertical-align: middle;">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamM1dm9nbnQxNHY1anl0cHVudThyN21mODB3aDI3cTQwMjJrMnluYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/loJfRUowazVZfaemAp/giphy.gif" alt="Darth Vader" width="300" style="border-radius: 15px; border: 2px solid #004466;"/>
     </td>
-    <td align="center" style="border: 1px solid transparent; padding: 0 20px; vertical-align: middle;">
+    <td align="center" style="border: 0; padding: 0 20px; vertical-align: middle;">
       <img src="divider-vertical.svg" height="250" />
     </td>
-    <td align="center" style="border: 1px solid transparent; padding: 0; vertical-align: middle;">
+    <td align="center" style="border: 0; padding: 0; vertical-align: middle;">
       <img src="header.svg" alt="Meet King Kole!" width="400" />
       <p><strong>Software & a Full Stack Developer</strong></p>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4CFF00&center=true&vCenter=true&width=200&lines=useTheForce();" alt="Use The Force" />
