@@ -73,6 +73,6 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4CFF00&center=true&vCenter=true&width=500&lines=---|;---|[:::::::];---|[::::::::::::::];---|[::::::::::::::::]::>;May+the+force+be+with+you." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4CFF00&center=true&vCenter=true&width=500&lines=---|;---|[:::::::];---|[::::::::::::::];---|[::::::::::::::::]::>;May+the+force+be+with+you!" alt="Typing SVG" />
 </a>
 </p>
